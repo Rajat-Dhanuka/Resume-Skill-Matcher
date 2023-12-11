@@ -15,7 +15,6 @@
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [📂 repository Structure](#-repository-structure)
-- [⚙️ Modules](#modules)
 - [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [👏 Acknowledgments](#-acknowledgments)
@@ -44,20 +43,6 @@ The primary goal of this project is to develop a comprehensive resume classifica
 
 ---
 
-
-## ⚙️ Modules
-
-<details closed><summary>Root</summary>
-
-| File                                                                                                                                                                   | Summary                   |
-| ---                                                                                                                                                                    | ---                       |
-| [gagana_ml_models (2).ipynb](https://github.com/Rajat-Dhanuka/Resume-Skill-Matcher/blob/main/gagana_ml_models (2).ipynb)                                               | HTTPStatus Exception: 404 |
-| [2659 preprocessing.ipynb](https://github.com/Rajat-Dhanuka/Resume-Skill-Matcher/blob/main/2659 preprocessing.ipynb)                                                   | HTTPStatus Exception: 404 |
-
-</details>
-
----
-
 ---
 
 
@@ -65,8 +50,8 @@ The primary goal of this project is to develop a comprehensive resume classifica
 
 > - [X] `ℹ️  Pre-process dataset
 > - [X] `ℹ️  Analyse Data 
-> - [X] `ℹ️  Do a comparitive Analysis of BoW, TF-IDF, Word2Bec using different ML models
-> - [X] `  Create and train DL model for Multiclass Classification 
+> - [X] `ℹ️  Do a comparative Analysis of BoW, TF-IDF, Word2Bec using different ML models
+> - [X] `ℹ️  Create and train DL model for Multiclass Classification 
 
 
 ---
