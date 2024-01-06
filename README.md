@@ -35,9 +35,9 @@ The primary goal of this project is to develop a comprehensive resume classifica
 
 ```sh
 └── Resume-Skill-Matcher/
-    ├── 2659 preprocessing.ipynb
+    ├── Preprocessing.ipynb
     ├── Skill_prediction_BERT_Multiclass_Multilabel.ipynb
-    └── gagana_ml_models (2).ipynb
+    └── Ml_models.ipynb
 
 ```
 
